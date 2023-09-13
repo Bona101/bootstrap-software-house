@@ -865,21 +865,21 @@ background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
 @media (min-width: 576px) {
   .cardo,
   .carde {
-    width: 500px !important;
+    width: 350px !important;
   }
 }
 
 @media (min-width: 768px) {
   .cardo,
   .carde {
-    width: 600px !important;
+    width: 500px !important;
   }
 }
 
 @media (min-width: 992px) {
   .cardo,
   .carde {
-    width: 750px !important;
+    width: 650px !important;
   }
 }
 
