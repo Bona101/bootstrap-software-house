@@ -854,10 +854,39 @@ background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
   border: none!important;
 }
 
-@media (max-width: 374px){
+@media (max-width: 374px) {
+
   .cardo,
   .carde {
-    width: 75%!important;
+    width: 75% !important;
+  }
+}
+
+@media (min-width: 576px) {
+  .cardo,
+  .carde {
+    width: 500px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .cardo,
+  .carde {
+    width: 600px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .cardo,
+  .carde {
+    width: 750px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .cardo,
+  .carde {
+    width: 900px !important;
   }
 }
 
